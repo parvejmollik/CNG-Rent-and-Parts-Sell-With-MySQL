@@ -1,2 +1,9 @@
 # CNG-Rent-and-Parts-Sell-With-MySQL
-Simple Database System for Managing CNG Rentals, Parts Inventory, and Sales.
+
+A database management system for CNG rental and parts sales.
+
+Manage product list (name, price, stock).
+
+Record sales (customer purchase, stock deduction).
+
+Scalable for future features like customer management, reports, and invoices.
